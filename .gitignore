@@ -1,0 +1,7 @@
+.directory
+/target/
+/.classpath
+/.project
+/.settings/
+__pycache__
+.pydevproject
